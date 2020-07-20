@@ -15,7 +15,14 @@ export class HomePage {
   seconds: any = 10;
   timer: any = false;
   overallTimer: any = false;
+  fullTime: any = '00:01:30';
 
-  constructor() {}
+startTimer(){
+  this.timer = false;
+this.percent = 0;
+this.progress = 0;
 
+let timeSplit = this.fullTime.split(':');
+
+}
 }
