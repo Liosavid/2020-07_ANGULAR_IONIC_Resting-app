@@ -1,5 +1,7 @@
 {
   "name": "sport-rest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

@@ -25,7 +25,6 @@ import { NgCircleProgressModule } from 'ng-circle-progress';
       animation: false,
       responsive: true,
       renderOnClick: false
-
     })
   ],
   declarations: [HomePage]
